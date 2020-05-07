@@ -17,16 +17,19 @@ Başka bir dil seçin:
 [English](/README.md),
 [日本語](./ja_jp.md),
 [Русский](./ru_ru.md),
-[中文](./zh_cn.md)
+[中文](./zh_cn.md),
+[한국어](./ko_kr.md)
 
 ***
 
 ## Texter
 
 Texter, çoklu dünya için desteklenen FloatingTextPerticle'ı görüntüleyen ve silen eklentidir.
-En son: ver **3.4.5**
+En son: ver **3.4.7**
+
 
 **Bu dal geliştirilme aşamasındadır. Çok fazla hata olabilir.**
+
 
 ### Destekleyici
 

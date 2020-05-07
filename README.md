@@ -18,15 +18,18 @@ Select another language:
 [русский](./.github/readme/ru_ru.md),
 [中文](./.github/readme/zh_cn.md),
 [Türkçe](./.github/readme/tr_tr.md)
+[한국어](./.github/readme/ko_kr.md)
 
 ***
 
 ## Texter
 
-Texter is plugin that displays and deletes FloatingTextPerticle supported to multi-world.  
-Latest: ver **3.4.5**  
+Texter is plugin that displays and deletes FloatingTextParticle supported to multi-world.  
+Latest: ver **3.4.7**  
+
 
 **This branch is under development. It may have many bugs.**  
+
 
 ### Supporting
 

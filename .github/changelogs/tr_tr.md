@@ -2,6 +2,14 @@
 
 ## 3.4.x
 
+### 3.4.7
+
+- Çeviri @minijaham: Eklendi Korece
+
+### 3.4.6
+
+- [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) çalışmasını en son Minecraft: Bedrock Edition 1.14.60 sürümü ile onayladı
+
 ### 3.4.5
 
 - Çeviri @SuperAdam47: Değiştirilmiş Türkçe
